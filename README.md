@@ -2,6 +2,12 @@
 
 ブラウザで遊べるオセロゲームです。AI対戦機能と美しいUIが特徴です。
 
+## 🚀 プレイ
+
+**[🎮 今すぐプレイ](https://daideguchi.github.io/01-othello-game/)**
+
+公開URL: https://daideguchi.github.io/01-othello-game/
+
 ## 🎮 プレイ方法
 
 1. **ゲームモード選択**
@@ -48,9 +54,13 @@
 
 ## 🚀 デプロイ
 
+このゲームはGitHub Pagesで公開されています：
+
+**🌐 公開URL**: https://daideguchi.github.io/01-othello-game/
+
 このゲームは静的ファイルで構成されており、以下の環境でホスティング可能です：
 
-- GitHub Pages
+- GitHub Pages ✅ (現在使用中)
 - Vercel
 - Netlify
 - Firebase Hosting
